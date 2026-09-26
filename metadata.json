@@ -1,0 +1,10 @@
+{
+  "name": "EpigraphAI - Ancient Tamil & Sanskrit Inscription Digitizer",
+  "description": "Computer vision and AI platform for digitizing, segmenting, recognizing, and transliterating ancient stone inscriptions (Tamil-Brahmi, Vatteluttu, Grantha, Devanagari) with CLAHE preprocessing and field archival tools.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
